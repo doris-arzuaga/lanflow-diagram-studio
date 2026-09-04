@@ -1,0 +1,8 @@
+# This file is used to override language statistics
+package-lock.json linguist-generated
+*.tsx linguist-detectable
+public/*.html linguist-vendored
+go.sum linguist-generated 
+
+yarn.lock linguist-generated
+*.ts linguist-detectable
