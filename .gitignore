@@ -1,0 +1,9 @@
+yarn-error.log*
+node_modules/
+.next/
+.env.local
+build/
+.DS_Store
+npm-debug.log*
+dist/
+*.tgz
